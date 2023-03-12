@@ -1,4 +1,4 @@
-- Live Site URL: [here](https://kevinburle.github.io/crowfunding-product-page-vanilla-js/)
+- Live Site URL: [here](https://kevinburle.github.io/crowdfunding-product-page-vanilla-js/)
 
 # Frontend Mentor - Crowdfunding product page solution
 
